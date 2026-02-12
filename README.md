@@ -1,4 +1,4 @@
-# Hi, I'm Krish 👋
+# Hi, I'm Kishore👋
 
 💻 Java & Python Developer  
 📚 Preparing for UPSC & SSC  
